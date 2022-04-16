@@ -1,4 +1,4 @@
-# Journalisme-et-donn-es
+# Journalisme-et-données
 Etude de la répartition du revenu de patrimoine entre les différentes zones de France classées en Montagne et non montagne.
 Cette étude a été menée avec des etudiants en master 2 de l'Institut Pratique du Journalisme (IPJ) de Dauphine. 
 
